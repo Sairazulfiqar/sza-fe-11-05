@@ -1,0 +1,27 @@
+
+
+p{
+    font-family: fantasy;
+    font-weight: 700;
+
+}
+
+#texto-rojo {
+    color: red;
+}
+
+#texto-verde {color: green;}
+
+.texto-index {
+    background-color: orange;
+}
+
+i{
+    color: blueviolet;
+}
+
+#i-amarillo { color: yellow;}
+
+.ipsum {
+    font-size: x-large;
+}
